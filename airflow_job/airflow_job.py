@@ -71,6 +71,7 @@ with DAG(
                 "service_account": "796376627397-compute@developer.gserviceaccount.com",
                 "network_uri": "projects/fifth-repeater-460020-t2/global/networks/default",
                 "subnetwork_uri": "projects/fifth-repeater-460020-t2/regions/us-central1/subnetworks/default",
+                "max_node_count": 2
             }
         },
     }
